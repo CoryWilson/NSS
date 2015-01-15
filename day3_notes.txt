@@ -1,0 +1,18 @@
+three types of permissions: read, write, execute
+
+-shell must be executable
+
+[doSomething][how][toFiles]
+
+q
+ctrl c
+whoami
+su root - subsitute root user
+
+chmod 513 [fileName]
+
+touch [fileName] - creates empty file
+
+cp [filePath/name] [fileDestination/name]- copy
+
+grant execute permissions

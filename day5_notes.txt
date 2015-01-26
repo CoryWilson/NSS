@@ -1,0 +1,88 @@
+non-repudiation
+  - contract, the thing happened
+authenticity
+  - things are what they say they are
+
+Info Security Domains
+-Access Control
+  - who has access to what and why
+    - users have user pages
+    - admins have admin pages
+    - etc
+-Telecommunications
+  - know whats going on in the background
+  - code appropriately
+  - using udp for video instead of tcp
+-Governance
+  - the rules for an institution that rule how things are done
+  - ex: all pushes will happen at 12:45
+-Software Development
+  - what tools resources etc are used
+-Architecture
+  - how are you going to build it
+  - store it
+  - move it around...
+-Operations Security
+  - the policy applied to security
+-Disaster Recovery
+  - planning for disasters
+-Legal
+-Physical
+-Cryptography
+  - encryption and decryption of information
+  - you can zip and encrypt with bash
+
+cronograph - cron job
+
+
+Controls
+-Administrative
+  - Orders handed down that are followed
+-Logical
+  - Technological controls
+  - Eliminate options for people to fuck up
+-Physical
+  - Locks, security and shit
+-Access
+-Preventative
+  - Stop people from getting in
+  - Firewall, etc
+-Detective
+  - Detect the presence or absence of people
+-Corrective
+  - Shut down connections and stuff if there are problems
+  - Anything that happens and goes wrong this will go and correct it
+-Compensating
+  - The things you use to stopgap existing problems
+  - "Band-Aid"
+
+NIST Security Controls
+
+
+cost vs fix
+
+awareness and training
+- stay up on shit
+configuration management
+contingency planning
+incident response
+maintenance
+- keeping tech updated
+media protection
+physican and environmental protections
+
+TECHNICAL
+- Access Control
+- Audit and Accountability
+  -
+- Identification and Authentication
+- System and Communications Protections
+
+use cvss database
+summary process
+what vulnerability does
+cvss score, etc
+
+executive summary
+supporting evidence
+conclusion? if it needs to be made

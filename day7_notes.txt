@@ -1,0 +1,23 @@
+day 7
+
+access logs or error logs
+
+largest file export - access log
+- get event
+- file size
+- sort order everything | grep
+- rank order those
+
+how many unique users?
+- count the number of unique ip addresses
+
+
+map reduce
+
+splunk
+log wizard
+
+get
+post to standard output
+then grep
+then standard output again

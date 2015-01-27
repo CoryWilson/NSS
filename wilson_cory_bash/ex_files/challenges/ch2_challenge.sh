@@ -4,3 +4,5 @@
 # Use some variables, some command substitution, and some string formatting
 #+to make a small summary of some system information. Print the result to
 #+the screen and write some information to a file.
+
+printf "\tSystem type: \t%s\n" $MACHTYPE

@@ -16,3 +16,11 @@ touch [fileName] - creates empty file
 cp [filePath/name] [fileDestination/name]- copy
 
 grant execute permissions
+
+pipe | adds chains of commands
+
+> pushes the output into a standard file
+
+./ means current
+
+../ takes you up a level to your parent

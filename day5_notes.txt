@@ -1,5 +1,6 @@
 non-repudiation
   - contract, the thing happened
+  - someone's inability to deny something
 authenticity
   - things are what they say they are
 

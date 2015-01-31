@@ -1,0 +1,58 @@
+OWASP Top 10
+
+Scrub out superfluous data
+
+stored procedures
+- encapsulated set of code
+- insert proc(var) will run batch of code
+
+validate on the server side, because it can be manipulated on the client side
+
+protect data with access controls
+
+views
+- encapsulated interpretation of data
+- displaying a SELECT of data
+
+encrypt data in database
+or store hash value
+
+relational database
+&
+non-relational database
+
+map out your data collection
+
+A1 - Injection
+     - Inputting code into forms
+A2 - Broken Authentication and Session Management
+     - man in the middle, etc
+A3 - Cross-Site Scripting(XSS)
+     - have to scrub variables between pages
+     - pages that are on your site
+A4 - Insecure Direct Object References
+     - don't have stuff visible
+A5 - Security Misconfiguration
+     - Have configurations set for being secure
+     - Not just cause its easy
+A6 - Sensitive Data Exposure
+     -
+A7 - Missing Function Level Access Control
+     - encapsulate things appropriately
+     - aka don't make password resets visible
+A8 - Cross-Site Request Forgery
+     -
+A9 - Using Components with Known Vulnerabilities
+A10 - Unvalidated Redirects and Forwards
+
+
+codereview
+secure coding practices
+
+
+preventative controls
+  - firewall, etc.
+detective controls
+  - intrustion detection
+response controls
+  - backup plan
